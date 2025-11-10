@@ -9,14 +9,6 @@
   <a href="mailto:zyra.zac1221@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedHeshamSakr.AhmedHeshamSakr&right_color=coral"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h1 align="center">Hello Hello !</h1>
